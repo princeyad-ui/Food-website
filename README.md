@@ -12,34 +12,16 @@ An interactive web application that allows users to browse local restaurants, vi
 📁 Suggested Project Structure
 <pre>
 food-website/
-│
-├── index.html
-├── about.html
-├── contact.html
-├── menu.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── images/
-│   ├── logo.png
-│   ├── banner.jpg
-│   └── food1.jpg
-│
-├── fonts/
-│   └── custom-font.woff2
-│
-├── icons/
-│   └── (optional icon files)
-│
-├── components/
-│   ├── navbar.html
-│   └── footer.html
-│
-├── README.md
-└── .gitignore
-
+├─ index.html
+├─ about.html
+├─ contact.html
+├─ menu.html
+├─ css/style.css
+├─ js/script.js
+├─ images/logo.png, banner.jpg, food1.jpg
+├─ components/navbar.html, footer.html
+├─ README.md
+└─ .gitignore
 </pre>
+
+
