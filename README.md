@@ -8,7 +8,7 @@ An interactive web application that allows users to browse local restaurants, vi
 🟨 JavaScript (ES6+)
 
 📁 Suggested Project Structure
-
+<pre>
 food-website/
 │
 ├── index.html              # Main landing page
@@ -38,4 +38,4 @@ food-website/
 │
 ├── README.md              # Project overview and documentation
 └── .gitignore             # Ignore node_modules, system files (if using Git)
-
+</pre>
