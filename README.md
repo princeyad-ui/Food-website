@@ -3,39 +3,43 @@ An interactive web application that allows users to browse local restaurants, vi
 
 
 🚀 Tech Stack for Food Website Project
+<pre>
 🔶 HTML5
 🔷 CSS3
 🟨 JavaScript (ES6+)
+</pre>
 
 📁 Suggested Project Structure
 <pre>
 food-website/
 │
-├── index.html              # Main landing page
-├── about.html              # About us page
-├── contact.html            # Contact form page
-├── menu.html               # Menu/food items page (optional)
+├── index.html
+├── about.html
+├── contact.html
+├── menu.html
 │
-├── /css
-│   └── style.css           # Main stylesheet
+├── css/
+│   └── style.css
 │
-├── /js
-│   └── script.js           # JavaScript for interactivity
+├── js/
+│   └── script.js
 │
-├── /images
-│   ├── logo.png            # Logo image
-│   ├── banner.jpg          # Hero/banner image
-│   └── food1.jpg           # Food images
+├── images/
+│   ├── logo.png
+│   ├── banner.jpg
+│   └── food1.jpg
 │
-├── /fonts                 # (Optional) Custom fonts
+├── fonts/
 │   └── custom-font.woff2
 │
-├── /icons                 # (Optional) Icon SVGs or assets
+├── icons/
+│   └── (optional icon files)
 │
-├── /components            # (Optional) Reusable components (navbar, footer)
+├── components/
 │   ├── navbar.html
 │   └── footer.html
 │
-├── README.md              # Project overview and documentation
-└── .gitignore             # Ignore node_modules, system files (if using Git)
+├── README.md
+└── .gitignore
+
 </pre>
